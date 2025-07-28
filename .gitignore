@@ -1,0 +1,12 @@
+echo ".idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv
+*.zip
+.DS_Store
+*.egg-info/
+temp/
+data/
+" > .gitignore
